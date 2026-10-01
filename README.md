@@ -1,3 +1,4 @@
+<img width="2535" height="1713" alt="CHAT-GUI-V1" src="https://github.com/user-attachments/assets/d1a76c4b-6d41-4d0e-9583-4da0e15b6925" />
 My name is Bradford.  At present, my goal is just to create simple but powerful apps and share them with the world.  I have written programs for myself as a hobby since I was a young child, but now that I have the AI model Kimi K3 to help me, I can create production quality apps and share them with the world!  Nearly all of this code was written by Kimi K3, but that doesn't mean it didn't take a lot of effort and skill to write the prompts!
 
 The license is to keep this project free and open source so that no unscrupulous souls can take the code and use it to make the big bucks while everyone else is left with mere crumbs.
