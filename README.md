@@ -8,7 +8,7 @@ I have only briefly tested the app on windows so far.
 
 Download and install Python.  BASH: pip install requests
 
-Download the simple-ai-chat-gui-v1.00.0.py release, and put in a folder where you want the chat data to be kept.  Open a command prompt or terminal and change into the directory where you put the python file.  Run the command:  python simple-ai-chat-gui-v1.00.0.py
+Download the chat_gui_v1.py release, and put in a folder where you want the chat data to be kept.  Open a command prompt or terminal and change into the directory where you put the python file.  Run the command:  python chat_gui_v1.py
 
 complete initial setup for local AI or an API, and SAVE.
 
